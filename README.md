@@ -1,6 +1,6 @@
 # DataScience-Classification
 Klasyfikacja - celem projektu jest wykorzystanie danych pasażerów Titanica w celu przewidywania ich przeżywalności.  
-Etapami projektu są: przygotowanie danych, analiza, wizualizacja, modelowanie.
+Etapami projektu są: przygotowanie danych, analiza, wizualizacja, modelowanie, ocena jakości modelu.
 
 ## Dane
 - Dane pasażerów Titanica
