@@ -1,5 +1,5 @@
 # DataScience-Classification
-Klasyfikacja - celem projektu jest wykorzystanie danych pasażerów Titanica w celu przewidywania ich przeżywalności.  
+Klasyfikacja - celem projektu jest wykorzystanie danych pasażerów Titanica w celu przewidywania ich przeżywalności za pomocą klasyfikatora Random Forest.  
 Etapami projektu są: przygotowanie danych, analiza, wizualizacja, modelowanie, ocena jakości modelu.
 
 ## Dane
